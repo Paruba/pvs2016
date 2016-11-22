@@ -7,7 +7,7 @@ Build [![Build Status](https://travis-ci.org/jandoubek/pvs2016.png)](https://tra
 
 ## Petr Paroubek
 * Kynolog
-* Kontrolni vybor v Podboranech
+* Kontrolni vybor v Podboranechchch
 * Asi nejaky vysoky politik
 
 ## Lukáš Nevařil
